@@ -1,0 +1,12 @@
+{
+  "contract": "learn.generation-feedback.v1",
+  "feedback": {
+    "contributor": "Anonymous",
+    "id": "feedback-18b74185ce5149a99fdef88d03fbf5c1",
+    "mode": "quick",
+    "rating": 1
+  },
+  "generation_id": "generation-7ee9067abf29419462d6",
+  "record_id": "topic-bayesian-regression",
+  "section_id": "summary"
+}

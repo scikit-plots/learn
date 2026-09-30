@@ -1,0 +1,12 @@
+{
+  "contract": "learn.generation-feedback.v1",
+  "feedback": {
+    "contributor": "Anonymous",
+    "id": "feedback-d4bc2cadb58f9af8b0cc88c6f8d35f6db3032f34f6ad287b",
+    "mode": "detailed",
+    "rating": 2
+  },
+  "generation_id": "generation-2e85476b4334173023ff",
+  "record_id": "problem-latent-component-stability",
+  "section_id": "statement"
+}

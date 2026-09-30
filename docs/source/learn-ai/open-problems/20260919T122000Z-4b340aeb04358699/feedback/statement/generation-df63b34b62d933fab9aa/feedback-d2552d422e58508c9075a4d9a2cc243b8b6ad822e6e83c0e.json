@@ -1,0 +1,12 @@
+{
+  "contract": "learn.generation-feedback.v1",
+  "feedback": {
+    "contributor": "Anonymous",
+    "id": "feedback-d2552d422e58508c9075a4d9a2cc243b8b6ad822e6e83c0e",
+    "mode": "quick",
+    "rating": 1
+  },
+  "generation_id": "generation-df63b34b62d933fab9aa",
+  "record_id": "problem-local-kernel-scalability",
+  "section_id": "statement"
+}

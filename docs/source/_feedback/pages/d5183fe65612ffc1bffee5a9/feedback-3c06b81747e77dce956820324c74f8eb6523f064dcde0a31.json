@@ -1,0 +1,11 @@
+{
+  "contract": "page.feedback-event.v1",
+  "feedback": {
+    "contributor": "Anonymous",
+    "id": "feedback-3c06b81747e77dce956820324c74f8eb6523f064dcde0a31",
+    "mode": "quick",
+    "rating": 1
+  },
+  "page_id": "learn-ai/index",
+  "site_id": "scikit-plots-learn"
+}

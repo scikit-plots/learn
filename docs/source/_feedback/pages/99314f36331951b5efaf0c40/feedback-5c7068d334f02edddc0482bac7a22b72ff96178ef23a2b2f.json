@@ -1,0 +1,11 @@
+{
+  "contract": "page.feedback-event.v1",
+  "feedback": {
+    "contributor": "Anonymous",
+    "id": "feedback-5c7068d334f02edddc0482bac7a22b72ff96178ef23a2b2f",
+    "mode": "quick",
+    "rating": 1
+  },
+  "page_id": "learn-ai/skills/skill-check-reference/index",
+  "site_id": "scikit-plots-learn"
+}

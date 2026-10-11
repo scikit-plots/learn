@@ -1,0 +1,11 @@
+{
+  "contract": "page.feedback-event.v1",
+  "feedback": {
+    "contributor": "Anonymous",
+    "id": "feedback-10127b02a26b85d6b1009b49ddd89b1a54d3fd2843389b65",
+    "mode": "quick",
+    "rating": 1
+  },
+  "page_id": "user_guide/annoy/index",
+  "site_id": "scikit-plots"
+}

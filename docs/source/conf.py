@@ -386,7 +386,7 @@ html_theme_options = {
     "search_bar_text": "Search the docs ...",
     "show_toc_level": 1,
     # -- Header and Footer Settings -------------------------------------------
-    "header_links_before_dropdown": 7,
+    "header_links_before_dropdown": 8,
     "header_dropdown_text": "More",
     # [left, content, right] For testing that the navbar items align properly
     "navbar_align": "left",

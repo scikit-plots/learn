@@ -192,6 +192,28 @@ Mathematical Optimization
   by cvxpy.org
 
 ------------------------
+Embedded World
+------------------------
+
+ST Edge AI Suite Documentation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `AI Model Zoo for STM32 devices
+  <https://github.com/STMicroelectronics/stm32ai-modelzoo/>`_
+  by `st.com
+  <https://www.st.com/content/st_com/en/about/who-we-are.html>`_
+
+* `STM32 model zoo
+  <https://stm32ai.st.com/model-zoo/>`_
+  by `st.com
+  <https://www.st.com/content/st_com/en/about/who-we-are.html>`_
+
+* `STM32Cube.AI
+  <https://stm32ai.st.com/stm32-cube-ai/>`_
+  by `st.com
+  <https://www.st.com/content/st_com/en/about/who-we-are.html>`_
+
+------------------------
 AI Agents & Tool Use
 ------------------------
 
@@ -204,6 +226,17 @@ LangChain
 * `LangChain Documentation
   <https://python.langchain.com/docs/>`_
   by langchain.com
+
+* `Learn Tutorials: Managed Deep Agents, Deep Agents, LangChain, LangGraph, and Multi-Agent
+  <https://docs.langchain.com/oss/python/learn>`_
+  by docs.langchain.com
+
+LangGraph 101
+^^^^^^^^^^^^^
+
+* `LangGraph 101
+  <https://github.com/langchain-ai/langgraph-101>`_
+  by github.com/langchain-ai
 
 LlamaIndex
 ^^^^^^^^^^
@@ -218,6 +251,10 @@ AI Provider Guides
 
 Anthropic Claude
 ^^^^^^^^^^^^^^^^
+
+* `Research Articles
+  <https://www.anthropic.com/research>`_
+  by anthropic.com
 
 Claude 101
 """"""""""

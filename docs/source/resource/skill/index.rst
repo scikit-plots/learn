@@ -17,6 +17,17 @@ Skill Resource
 Claude Skills (Official)
 -----------------------------------
 
+Hugging Face Skills
+^^^^^^^^^^^^^^^^^^^
+
+* `Hugging Face Skills
+  <https://github.com/huggingface/skills>`_
+  by github.com/huggingface
+
+-----------------------------------
+Claude Skills (Official)
+-----------------------------------
+
 Claude Skills Overview
 ^^^^^^^^^^^^^^^^^^^^^^
 

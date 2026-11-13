@@ -75,11 +75,12 @@
   
   scikit-plots <https://scikit-plots.github.io/dev/index.html>
   Learn-AI <learn-ai/index.rst>
-  YouTube <youtube/index.rst>
-  Resource-Ext <resource/index.rst>
   Learn <learn/index.rst>
-  Hands-On <learn/hands-on/index.rst>
-  Kitchen-Sink <learn/kitchen-sink/index.rst>
+  Hands-On <hands-on/index.rst>
+  Kitchen-Sink <kitchen-sink/index.rst>
+  Cheatsheet <cheatsheet/index.rst>
+  YouTube <youtube/index.rst>
+  Resource <resource/index.rst>
 
   Tags <_tags/tagsindex.rst>
   Glossary <glossary/index.rst>

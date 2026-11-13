@@ -3,17 +3,16 @@
 ..
   # https://gdevops.frama.io/documentation/formats/input/input.html
 
+.. contents:: Table of contents
+   :depth: 2
+   :local:
+
 =====================
 Markdown Cheat Sheet
 =====================
 
 :Info:    Markdown essentials — quick, copy/paste-friendly reminders.
 :Sources: John-CD Markdown cheatsheet + referenced Markdown/GFM links.
-
-.. contents:: Table of contents
-   :depth: 2
-   :local:
-
 
 Resources
 =========

@@ -130,6 +130,38 @@ Code Examples & Repositories
   (interactive tutorials with executable notebooks)
 
 ----------------------------
+Embedded World Examples
+----------------------------
+
+ST Edge AI Suite Case studies (Inspiration & Examples)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Case studies
+  <https://www.st.com/content/st_com/en/st-edge-ai-suite/case-studies.htm>`_
+  (Discover how to improve embedded solutions using edge AI.)
+
+* `Case studies: Aftermarket wireless digit reader
+  <https://www.st.com/content/st_com/en/st-edge-ai-suite/case-studies/aftermarket-wireless-digit-reader.html>`_
+
+* `Case studies: Food recognition
+  <https://www.st.com/content/st_com/en/st-edge-ai-suite/case-studies/food-recognition.html>`_
+
+* `Case studies: Traffic sign classification
+  <https://www.st.com/content/st_com/en/st-edge-ai-suite/case-studies/traffic-sign-classification.html>`_
+
+* `Case studies: Plant leaf disease identification
+  <https://www.st.com/content/st_com/en/st-edge-ai-suite/case-studies/plant-leaf-disease-identification.html>`_
+
+* `Case studies: Low-power anomaly detection on a fan
+  <https://www.st.com/content/st_com/en/st-edge-ai-suite/case-studies/low-power-anomaly-detection-on-a-fan.html>`_
+
+* `Case studies: Ukulele chords classification
+  <https://www.st.com/content/st_com/en/st-edge-ai-suite/case-studies/ukulele-chords-classification.html>`_
+
+* `Case studies: AI solution for failure prediction on rotating machines with SMRI
+  <https://www.st.com/content/st_com/en/st-edge-ai-suite/case-studies/ai-solution-for-failure-prediction-on-rotating-machines-with-smri.html>`_
+
+----------------------------
 Core Learning Principles
 ----------------------------
 

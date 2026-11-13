@@ -121,7 +121,7 @@ Videos
    - title: Principal Component Analysis (PCA) in R
      content: '.. youtube:: mNpBrHwOCt4'
      category: Machine Learning & Algorithms
-   - title: STM32Cube.AI workshop - 1 Introduction to Artificial Intelligence (AI)
+   - title: MOOC - STM32Cube.AI workshop
      content: '.. youtube:: yuLNWKxzn3M'
      category: Deep Learning & Neural Networks and its implementation in embedded world
    - title: Getting started with STM32 Model zoo

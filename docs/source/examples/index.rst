@@ -1,5 +1,12 @@
 :html_theme.sidebar_secondary.remove:
 
+..
+  # https://docutils.sourceforge.io/docs/ref/rst/directives.html#table-of-contents
+
+.. contents:: Table of contents
+   :depth: 3
+   :local:
+
 .. _examples-youtube-index:
 
 =================

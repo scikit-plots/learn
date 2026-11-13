@@ -18,6 +18,7 @@ Search channels or explore videos by topic. Filters apply to the cards on this p
    or security advice against current official documentation before relying on it.
 
 .. important:: Before you rely on an external video
+   :collapsible: closed
 
    **These links are suggestions, not endorsements.** We share third-party YouTube
    channels and videos as optional learning resources. Their inclusion does not mean
@@ -65,6 +66,9 @@ Channels
    - title: '@StatisticsGlobe'
      link-alt: Statistics and data visualization tutorials
      link: https://www.youtube.com/@StatisticsGlobe
+   - title: '@STMicroelectronics'
+     link-alt: Devices more intelligent, more energy efficient, more connected, safer and more secure
+     link: https://www.youtube.com/@stmicroelectronics
 
 Videos
 ------
@@ -82,60 +86,44 @@ Videos
        '
      category: Agent Skills & Design Patterns
    - title: Don't Build Agents, Build Skills Instead
-     content: '.. youtube:: CEvIs9y1uog
-   
-       '
+     content: '.. youtube:: CEvIs9y1uog'
      category: Agent Skills & Design Patterns
    - title: Building Production-Ready RAG Applications
-     content: '.. youtube:: TRjq7t2Ms5I
-   
-       '
+     content: '.. youtube:: TRjq7t2Ms5I'
      category: AI Engineering & Production
    - title: Marriage of Knowledge Graphs and RAG
-     content: '.. youtube:: knDDGYHnnSI
-   
-       '
+     content: '.. youtube:: knDDGYHnnSI'
      category: AI Engineering & Production
    - title: Ship Production Code 2x Faster With AI
-     content: '.. youtube:: 5HP4DQZJkNQ
-   
-       '
+     content: '.. youtube:: 5HP4DQZJkNQ'
      category: AI Engineering & Production
    - title: Can Language Models Rebuild Production Systems?
-     content: '.. youtube:: rxy_9I8967Q
-   
-       '
+     content: '.. youtube:: rxy_9I8967Q'
      category: AI Strategy & Thought Leadership
    - title: Why Do We Need AI Fluency?
-     content: '.. youtube:: 4szRHy_CT7s
-   
-       '
+     content: '.. youtube:: 4szRHy_CT7s'
      category: AI Strategy & Thought Leadership
    - title: Advanced Matplotlib Techniques
-     content: '.. youtube:: wB9C0Mz9gSo
-   
-       '
+     content: '.. youtube:: wB9C0Mz9gSo'
      category: Data Science & Visualization
    - title: Introduction to NumPy and Matplotlib
-     content: '.. youtube:: 3Fp1zn5ao2M
-   
-       '
+     content: '.. youtube:: 3Fp1zn5ao2M'
      category: Data Science & Visualization
    - title: Matplotlib Fundamentals Tutorial
-     content: '.. youtube:: qqwf4Vuj8oM
-   
-       '
+     content: '.. youtube:: qqwf4Vuj8oM'
      category: Data Science & Visualization
-   - title: Machine Learning Design Patterns
-     content: '.. youtube:: aL_zQfi7lDI
-   
-       '
+   - title: eep Learning Design Patterns
+     content: '.. youtube:: aL_zQfi7lDI'
      category: Data Science & Visualization
    - title: Principal Component Analysis (PCA) in Python
-     content: '.. youtube:: JXtISpdDPNY
-   
-       '
+     content: '.. youtube:: JXtISpdDPNY'
      category: Machine Learning & Algorithms
    - title: Principal Component Analysis (PCA) in R
      content: '.. youtube:: mNpBrHwOCt4'
      category: Machine Learning & Algorithms
+   - title: STM32Cube.AI workshop - 1 Introduction to Artificial Intelligence (AI)
+     content: '.. youtube:: yuLNWKxzn3M'
+     category: Deep Learning & Neural Networks and its implementation in embedded world
+   - title: Getting started with STM32 Model zoo
+     content: '.. youtube:: yuSVz3x9LzE'
+     category: Deep Learning & Neural Networks and its implementation in embedded world

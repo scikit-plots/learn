@@ -17,6 +17,13 @@ Cookbook
 AI Cookbook
 -----------------------------------
 
+Agno Cookbook
+^^^^^^^^^^^^^^^^^^^^^^
+
+* `Agno Cookbook: Quickstart
+  <https://platform.claude.com/cookbook/skills-notebooks-01-skills-introduction>`_
+  by Agno Inc
+
 Claude Cookbook
 ^^^^^^^^^^^^^^^^^^^^^^
 
@@ -24,9 +31,16 @@ Claude Cookbook
   <https://platform.claude.com/cookbook/skills-notebooks-01-skills-introduction>`_
   by Anthropic
 
-Agno Cookbook
+RAG Cookbook
 ^^^^^^^^^^^^^^^^^^^^^^
 
-* `Agno Cookbook: Quickstart
-  <https://platform.claude.com/cookbook/skills-notebooks-01-skills-introduction>`_
-  by Agno Inc
+* `rag-cookbook-2026
+  <https://github.com/FareedKhan-dev/rag-cookbook-2026>`_
+  by github.com/FareedKhan-dev
+
+OpenAI Cookbook
+^^^^^^^^^^^^^^^^^^^^^^
+
+* `openai-cookbook
+  <https://github.com/openai/openai-cookbook>`_
+  by github.com/openai

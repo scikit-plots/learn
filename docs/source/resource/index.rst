@@ -89,7 +89,7 @@ Learning Resource External
         .. toctree::
             :maxdepth: 2
 
-            Documentation Resource <./doc/index.rst>
+            Doc Resource <./doc/index.rst>
 
     .. grid-item-card::
         :padding: 2

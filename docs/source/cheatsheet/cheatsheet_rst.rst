@@ -3,13 +3,6 @@
 ..
   # https://gdevops.frama.io/documentation/formats/input/input.html
 
-============================
-reStructuredText Cheat Sheet
-============================
-
-:Info:    A practical, copy/paste-friendly reStructuredText (reST) cheat sheet.
-:Sources: John-CD cheatsheet + Docutils quickref/cheatsheet (see links below).
-
 ..
   # https://docutils.sourceforge.io/docs/ref/rst/directives.html#table-of-contents
 
@@ -17,6 +10,12 @@ reStructuredText Cheat Sheet
    :depth: 3
    :local:
 
+============================
+reStructuredText Cheat Sheet
+============================
+
+:Info:    A practical, copy/paste-friendly reStructuredText (reST) cheat sheet.
+:Sources: John-CD cheatsheet + Docutils quickref/cheatsheet (see links below).
 
 Resources
 =========

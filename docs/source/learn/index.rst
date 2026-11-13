@@ -76,39 +76,6 @@
 
             Terminology <./terminology/index.rst>
 
-    .. grid-item-card::
-        :padding: 2
-        :columns: 12 12 6 6
-
-        **cheatsheet**
-        ^^^
-        .. toctree::
-            :maxdepth: 2
-
-            Cheatsheet <./cheatsheet/index.rst>
-
-    .. grid-item-card::
-        :padding: 2
-        :columns: 12 12 6 6
-
-        **hands-on material**
-        ^^^
-        .. toctree::
-            :maxdepth: 2
-
-            Hands-On Material <./hands-on/index.rst>
-
-    .. grid-item-card::
-        :padding: 2
-        :columns: 12 12 6 6
-
-        **kitchen-sink**
-        ^^^
-        .. toctree::
-            :maxdepth: 2
-
-            Kitchen Sink <./kitchen-sink/index.rst>
-
 
 .. grid:: 1 1 1 1
 

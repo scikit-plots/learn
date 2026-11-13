@@ -34,7 +34,7 @@ Kitchen Sink
 
     .. grid-item-card::
         :padding: 2
-        :columns: 12 12 12 12
+        :columns: 12 12 6 6
 
         **rst**
         ^^^
@@ -42,3 +42,14 @@ Kitchen Sink
             :maxdepth: 2
 
             RST • PyData Community <pydata-kitchen-sink/index>
+
+    .. grid-item-card::
+        :padding: 2
+        :columns: 12 12 6 6
+
+        **rst**
+        ^^^
+        .. toctree::
+            :maxdepth: 2
+
+            reStructuredText <restructuredtextmenu/index>

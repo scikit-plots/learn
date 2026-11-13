@@ -23,3 +23,10 @@ Claude Handbook
 * `Claude Code Complete User Handbook
   <https://arxiv.org/pdf/2608.26742>`_
   by David Soldani
+
+Ultralytics Handbook
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Ultralytics company handbook
+  <https://github.com/ultralytics/handbook>`_
+  by github.com/ultralytics
